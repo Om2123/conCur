@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "concur",
+    "slug": "concur",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "concur"
+}
